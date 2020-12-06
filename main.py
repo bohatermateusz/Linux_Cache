@@ -1,1 +1,1 @@
-print("ale to wolne")
+print("ale to wolnedddd")
